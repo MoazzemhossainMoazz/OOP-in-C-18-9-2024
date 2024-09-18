@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\technoArt\\C#\\Single Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EA4F9E-AA3C-466B-B973-3B6E390CDF48}|Single Interface\\Single Interface.csproj|e:\\technoart\\c#\\single interface\\single interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EA4F9E-AA3C-466B-B973-3B6E390CDF48}|Single Interface\\Single Interface.csproj|solutionrelative:single interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\technoArt\\C#\\Single Interface\\Single Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Single Interface\\Program.cs",
+              "ToolTip": "E:\\technoArt\\C#\\Single Interface\\Single Interface\\Program.cs",
+              "RelativeToolTip": "Single Interface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:12:59.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

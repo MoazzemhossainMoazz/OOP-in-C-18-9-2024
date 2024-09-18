@@ -1,0 +1,14 @@
+E:\technoArt\C#\Properties\Properties\bin\Debug\net8.0\Properties.exe
+E:\technoArt\C#\Properties\Properties\bin\Debug\net8.0\Properties.deps.json
+E:\technoArt\C#\Properties\Properties\bin\Debug\net8.0\Properties.runtimeconfig.json
+E:\technoArt\C#\Properties\Properties\bin\Debug\net8.0\Properties.dll
+E:\technoArt\C#\Properties\Properties\bin\Debug\net8.0\Properties.pdb
+E:\technoArt\C#\Properties\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\technoArt\C#\Properties\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+E:\technoArt\C#\Properties\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+E:\technoArt\C#\Properties\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+E:\technoArt\C#\Properties\Properties\obj\Debug\net8.0\Properties.dll
+E:\technoArt\C#\Properties\Properties\obj\Debug\net8.0\refint\Properties.dll
+E:\technoArt\C#\Properties\Properties\obj\Debug\net8.0\Properties.pdb
+E:\technoArt\C#\Properties\Properties\obj\Debug\net8.0\Properties.genruntimeconfig.cache
+E:\technoArt\C#\Properties\Properties\obj\Debug\net8.0\ref\Properties.dll

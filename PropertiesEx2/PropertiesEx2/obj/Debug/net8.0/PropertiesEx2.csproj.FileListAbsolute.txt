@@ -1,0 +1,14 @@
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\obj\Debug\net8.0\PropertiesEx2.GeneratedMSBuildEditorConfig.editorconfig
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\obj\Debug\net8.0\PropertiesEx2.AssemblyInfoInputs.cache
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\obj\Debug\net8.0\PropertiesEx2.AssemblyInfo.cs
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\obj\Debug\net8.0\PropertiesEx2.csproj.CoreCompileInputs.cache
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\bin\Debug\net8.0\PropertiesEx2.exe
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\bin\Debug\net8.0\PropertiesEx2.deps.json
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\bin\Debug\net8.0\PropertiesEx2.runtimeconfig.json
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\bin\Debug\net8.0\PropertiesEx2.dll
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\bin\Debug\net8.0\PropertiesEx2.pdb
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\obj\Debug\net8.0\PropertiesEx2.dll
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\obj\Debug\net8.0\refint\PropertiesEx2.dll
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\obj\Debug\net8.0\PropertiesEx2.pdb
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\obj\Debug\net8.0\PropertiesEx2.genruntimeconfig.cache
+E:\technoArt\C#\PropertiesEx2\PropertiesEx2\obj\Debug\net8.0\ref\PropertiesEx2.dll

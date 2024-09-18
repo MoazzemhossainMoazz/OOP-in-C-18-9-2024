@@ -1,0 +1,14 @@
+E:\technoArt\C#\Method\Method\bin\Debug\net8.0\Method.exe
+E:\technoArt\C#\Method\Method\bin\Debug\net8.0\Method.deps.json
+E:\technoArt\C#\Method\Method\bin\Debug\net8.0\Method.runtimeconfig.json
+E:\technoArt\C#\Method\Method\bin\Debug\net8.0\Method.dll
+E:\technoArt\C#\Method\Method\bin\Debug\net8.0\Method.pdb
+E:\technoArt\C#\Method\Method\obj\Debug\net8.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\technoArt\C#\Method\Method\obj\Debug\net8.0\Method.AssemblyInfoInputs.cache
+E:\technoArt\C#\Method\Method\obj\Debug\net8.0\Method.AssemblyInfo.cs
+E:\technoArt\C#\Method\Method\obj\Debug\net8.0\Method.csproj.CoreCompileInputs.cache
+E:\technoArt\C#\Method\Method\obj\Debug\net8.0\Method.dll
+E:\technoArt\C#\Method\Method\obj\Debug\net8.0\refint\Method.dll
+E:\technoArt\C#\Method\Method\obj\Debug\net8.0\Method.pdb
+E:\technoArt\C#\Method\Method\obj\Debug\net8.0\Method.genruntimeconfig.cache
+E:\technoArt\C#\Method\Method\obj\Debug\net8.0\ref\Method.dll

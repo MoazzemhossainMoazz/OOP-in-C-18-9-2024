@@ -1,0 +1,14 @@
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\bin\Debug\net8.0\Access Modifier Public.exe
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\bin\Debug\net8.0\Access Modifier Public.deps.json
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\bin\Debug\net8.0\Access Modifier Public.runtimeconfig.json
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\bin\Debug\net8.0\Access Modifier Public.dll
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\bin\Debug\net8.0\Access Modifier Public.pdb
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\obj\Debug\net8.0\Access Modifier Public.GeneratedMSBuildEditorConfig.editorconfig
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\obj\Debug\net8.0\Access Modifier Public.AssemblyInfoInputs.cache
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\obj\Debug\net8.0\Access Modifier Public.AssemblyInfo.cs
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\obj\Debug\net8.0\Access Modifier Public.csproj.CoreCompileInputs.cache
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\obj\Debug\net8.0\Access Modifier Public.dll
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\obj\Debug\net8.0\refint\Access Modifier Public.dll
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\obj\Debug\net8.0\Access Modifier Public.pdb
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\obj\Debug\net8.0\Access Modifier Public.genruntimeconfig.cache
+E:\technoArt\C#\Access Modifier Public\Access Modifier Public\obj\Debug\net8.0\ref\Access Modifier Public.dll

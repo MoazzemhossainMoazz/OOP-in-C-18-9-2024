@@ -1,0 +1,14 @@
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\obj\Debug\net8.0\PolymorphismEx2.GeneratedMSBuildEditorConfig.editorconfig
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\obj\Debug\net8.0\PolymorphismEx2.AssemblyInfoInputs.cache
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\obj\Debug\net8.0\PolymorphismEx2.AssemblyInfo.cs
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\obj\Debug\net8.0\PolymorphismEx2.csproj.CoreCompileInputs.cache
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\bin\Debug\net8.0\PolymorphismEx2.exe
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\bin\Debug\net8.0\PolymorphismEx2.deps.json
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\bin\Debug\net8.0\PolymorphismEx2.runtimeconfig.json
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\bin\Debug\net8.0\PolymorphismEx2.dll
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\bin\Debug\net8.0\PolymorphismEx2.pdb
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\obj\Debug\net8.0\PolymorphismEx2.dll
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\obj\Debug\net8.0\refint\PolymorphismEx2.dll
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\obj\Debug\net8.0\PolymorphismEx2.pdb
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\obj\Debug\net8.0\PolymorphismEx2.genruntimeconfig.cache
+E:\technoArt\C#\PolymorphismEx2\PolymorphismEx2\obj\Debug\net8.0\ref\PolymorphismEx2.dll

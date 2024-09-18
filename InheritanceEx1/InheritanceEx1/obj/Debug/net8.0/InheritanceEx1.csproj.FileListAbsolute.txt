@@ -1,0 +1,14 @@
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\obj\Debug\net8.0\InheritanceEx1.GeneratedMSBuildEditorConfig.editorconfig
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\obj\Debug\net8.0\InheritanceEx1.AssemblyInfoInputs.cache
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\obj\Debug\net8.0\InheritanceEx1.AssemblyInfo.cs
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\obj\Debug\net8.0\InheritanceEx1.csproj.CoreCompileInputs.cache
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\bin\Debug\net8.0\InheritanceEx1.exe
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\bin\Debug\net8.0\InheritanceEx1.deps.json
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\bin\Debug\net8.0\InheritanceEx1.runtimeconfig.json
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\bin\Debug\net8.0\InheritanceEx1.dll
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\bin\Debug\net8.0\InheritanceEx1.pdb
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\obj\Debug\net8.0\InheritanceEx1.dll
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\obj\Debug\net8.0\refint\InheritanceEx1.dll
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\obj\Debug\net8.0\InheritanceEx1.pdb
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\obj\Debug\net8.0\InheritanceEx1.genruntimeconfig.cache
+E:\technoArt\C#\InheritanceEx1\InheritanceEx1\obj\Debug\net8.0\ref\InheritanceEx1.dll

@@ -1,0 +1,14 @@
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\bin\Debug\net8.0\InterfaceEx1.exe
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\bin\Debug\net8.0\InterfaceEx1.deps.json
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\bin\Debug\net8.0\InterfaceEx1.runtimeconfig.json
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\bin\Debug\net8.0\InterfaceEx1.dll
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\bin\Debug\net8.0\InterfaceEx1.pdb
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\obj\Debug\net8.0\InterfaceEx1.GeneratedMSBuildEditorConfig.editorconfig
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\obj\Debug\net8.0\InterfaceEx1.AssemblyInfoInputs.cache
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\obj\Debug\net8.0\InterfaceEx1.AssemblyInfo.cs
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\obj\Debug\net8.0\InterfaceEx1.csproj.CoreCompileInputs.cache
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\obj\Debug\net8.0\InterfaceEx1.dll
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\obj\Debug\net8.0\refint\InterfaceEx1.dll
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\obj\Debug\net8.0\InterfaceEx1.pdb
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\obj\Debug\net8.0\InterfaceEx1.genruntimeconfig.cache
+E:\technoArt\C#\InterfaceEx1\InterfaceEx1\obj\Debug\net8.0\ref\InterfaceEx1.dll

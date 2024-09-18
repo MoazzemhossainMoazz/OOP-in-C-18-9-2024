@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\technoArt\\C#\\Access Modifier Private\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7498CD9-A088-4A19-B81A-5A212778F913}|Access Modifier Private\\Access Modifier Private.csproj|e:\\technoart\\c#\\access modifier private\\access modifier private\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7498CD9-A088-4A19-B81A-5A212778F913}|Access Modifier Private\\Access Modifier Private.csproj|solutionrelative:access modifier private\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\technoArt\\C#\\Access Modifier Private\\Access Modifier Private\\Program.cs",
+              "RelativeDocumentMoniker": "Access Modifier Private\\Program.cs",
+              "ToolTip": "E:\\technoArt\\C#\\Access Modifier Private\\Access Modifier Private\\Program.cs",
+              "RelativeToolTip": "Access Modifier Private\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:27:04.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

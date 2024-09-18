@@ -1,0 +1,14 @@
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\obj\Debug\net8.0\PropertiseEx3.GeneratedMSBuildEditorConfig.editorconfig
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\obj\Debug\net8.0\PropertiseEx3.AssemblyInfoInputs.cache
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\obj\Debug\net8.0\PropertiseEx3.AssemblyInfo.cs
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\obj\Debug\net8.0\PropertiseEx3.csproj.CoreCompileInputs.cache
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\bin\Debug\net8.0\PropertiseEx3.exe
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\bin\Debug\net8.0\PropertiseEx3.deps.json
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\bin\Debug\net8.0\PropertiseEx3.runtimeconfig.json
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\bin\Debug\net8.0\PropertiseEx3.dll
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\bin\Debug\net8.0\PropertiseEx3.pdb
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\obj\Debug\net8.0\PropertiseEx3.dll
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\obj\Debug\net8.0\refint\PropertiseEx3.dll
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\obj\Debug\net8.0\PropertiseEx3.pdb
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\obj\Debug\net8.0\PropertiseEx3.genruntimeconfig.cache
+E:\technoArt\C#\PropertiseEx3\PropertiseEx3\obj\Debug\net8.0\ref\PropertiseEx3.dll

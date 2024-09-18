@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\technoArt\\C#\\InheritanceEx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{981DA911-229A-4ED1-857D-04653B457F18}|InheritanceEx1\\InheritanceEx1.csproj|e:\\technoart\\c#\\inheritanceex1\\inheritanceex1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981DA911-229A-4ED1-857D-04653B457F18}|InheritanceEx1\\InheritanceEx1.csproj|solutionrelative:inheritanceex1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981DA911-229A-4ED1-857D-04653B457F18}|InheritanceEx1\\InheritanceEx1.csproj|e:\\technoart\\c#\\inheritanceex1\\inheritanceex1\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981DA911-229A-4ED1-857D-04653B457F18}|InheritanceEx1\\InheritanceEx1.csproj|solutionrelative:inheritanceex1\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981DA911-229A-4ED1-857D-04653B457F18}|InheritanceEx1\\InheritanceEx1.csproj|e:\\technoart\\c#\\inheritanceex1\\inheritanceex1\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981DA911-229A-4ED1-857D-04653B457F18}|InheritanceEx1\\InheritanceEx1.csproj|solutionrelative:inheritanceex1\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981DA911-229A-4ED1-857D-04653B457F18}|InheritanceEx1\\InheritanceEx1.csproj|e:\\technoart\\c#\\inheritanceex1\\inheritanceex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981DA911-229A-4ED1-857D-04653B457F18}|InheritanceEx1\\InheritanceEx1.csproj|solutionrelative:inheritanceex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "E:\\technoArt\\C#\\InheritanceEx1\\InheritanceEx1\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "InheritanceEx1\\CheckingAccount.cs",
+              "ToolTip": "E:\\technoArt\\C#\\InheritanceEx1\\InheritanceEx1\\CheckingAccount.cs",
+              "RelativeToolTip": "InheritanceEx1\\CheckingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:06:27.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "E:\\technoArt\\C#\\InheritanceEx1\\InheritanceEx1\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "InheritanceEx1\\SavingAccount.cs",
+              "ToolTip": "E:\\technoArt\\C#\\InheritanceEx1\\InheritanceEx1\\SavingAccount.cs",
+              "RelativeToolTip": "InheritanceEx1\\SavingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:05:39.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "E:\\technoArt\\C#\\InheritanceEx1\\InheritanceEx1\\BankAccount.cs",
+              "RelativeDocumentMoniker": "InheritanceEx1\\BankAccount.cs",
+              "ToolTip": "E:\\technoArt\\C#\\InheritanceEx1\\InheritanceEx1\\BankAccount.cs",
+              "RelativeToolTip": "InheritanceEx1\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:17:04.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\technoArt\\C#\\InheritanceEx1\\InheritanceEx1\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceEx1\\Program.cs",
+              "ToolTip": "E:\\technoArt\\C#\\InheritanceEx1\\InheritanceEx1\\Program.cs",
+              "RelativeToolTip": "InheritanceEx1\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:09:39.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

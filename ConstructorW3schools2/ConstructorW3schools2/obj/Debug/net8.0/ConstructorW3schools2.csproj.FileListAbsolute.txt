@@ -1,0 +1,14 @@
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\obj\Debug\net8.0\ConstructorW3schools2.GeneratedMSBuildEditorConfig.editorconfig
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\obj\Debug\net8.0\ConstructorW3schools2.AssemblyInfoInputs.cache
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\obj\Debug\net8.0\ConstructorW3schools2.AssemblyInfo.cs
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\obj\Debug\net8.0\ConstructorW3schools2.csproj.CoreCompileInputs.cache
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\bin\Debug\net8.0\ConstructorW3schools2.exe
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\bin\Debug\net8.0\ConstructorW3schools2.deps.json
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\bin\Debug\net8.0\ConstructorW3schools2.runtimeconfig.json
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\bin\Debug\net8.0\ConstructorW3schools2.dll
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\bin\Debug\net8.0\ConstructorW3schools2.pdb
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\obj\Debug\net8.0\ConstructorW3schools2.dll
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\obj\Debug\net8.0\refint\ConstructorW3schools2.dll
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\obj\Debug\net8.0\ConstructorW3schools2.pdb
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\obj\Debug\net8.0\ConstructorW3schools2.genruntimeconfig.cache
+E:\technoArt\C#\ConstructorW3schools2\ConstructorW3schools2\obj\Debug\net8.0\ref\ConstructorW3schools2.dll

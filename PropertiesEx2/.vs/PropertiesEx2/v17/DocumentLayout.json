@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\technoArt\\C#\\PropertiesEx2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEE0C81-ED83-46A3-8217-3EF95D69595D}|PropertiesEx2\\PropertiesEx2.csproj|e:\\technoart\\c#\\propertiesex2\\propertiesex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEE0C81-ED83-46A3-8217-3EF95D69595D}|PropertiesEx2\\PropertiesEx2.csproj|solutionrelative:propertiesex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\technoArt\\C#\\PropertiesEx2\\PropertiesEx2\\Program.cs",
+              "RelativeDocumentMoniker": "PropertiesEx2\\Program.cs",
+              "ToolTip": "E:\\technoArt\\C#\\PropertiesEx2\\PropertiesEx2\\Program.cs",
+              "RelativeToolTip": "PropertiesEx2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:04:37.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

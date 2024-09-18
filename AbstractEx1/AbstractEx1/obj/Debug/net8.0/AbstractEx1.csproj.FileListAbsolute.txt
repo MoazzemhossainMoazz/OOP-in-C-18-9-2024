@@ -1,0 +1,14 @@
+E:\technoArt\C#\AbstractEx1\AbstractEx1\bin\Debug\net8.0\AbstractEx1.exe
+E:\technoArt\C#\AbstractEx1\AbstractEx1\bin\Debug\net8.0\AbstractEx1.deps.json
+E:\technoArt\C#\AbstractEx1\AbstractEx1\bin\Debug\net8.0\AbstractEx1.runtimeconfig.json
+E:\technoArt\C#\AbstractEx1\AbstractEx1\bin\Debug\net8.0\AbstractEx1.dll
+E:\technoArt\C#\AbstractEx1\AbstractEx1\bin\Debug\net8.0\AbstractEx1.pdb
+E:\technoArt\C#\AbstractEx1\AbstractEx1\obj\Debug\net8.0\AbstractEx1.GeneratedMSBuildEditorConfig.editorconfig
+E:\technoArt\C#\AbstractEx1\AbstractEx1\obj\Debug\net8.0\AbstractEx1.AssemblyInfoInputs.cache
+E:\technoArt\C#\AbstractEx1\AbstractEx1\obj\Debug\net8.0\AbstractEx1.AssemblyInfo.cs
+E:\technoArt\C#\AbstractEx1\AbstractEx1\obj\Debug\net8.0\AbstractEx1.csproj.CoreCompileInputs.cache
+E:\technoArt\C#\AbstractEx1\AbstractEx1\obj\Debug\net8.0\AbstractEx1.dll
+E:\technoArt\C#\AbstractEx1\AbstractEx1\obj\Debug\net8.0\refint\AbstractEx1.dll
+E:\technoArt\C#\AbstractEx1\AbstractEx1\obj\Debug\net8.0\AbstractEx1.pdb
+E:\technoArt\C#\AbstractEx1\AbstractEx1\obj\Debug\net8.0\AbstractEx1.genruntimeconfig.cache
+E:\technoArt\C#\AbstractEx1\AbstractEx1\obj\Debug\net8.0\ref\AbstractEx1.dll

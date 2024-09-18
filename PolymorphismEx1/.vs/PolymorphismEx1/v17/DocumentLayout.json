@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\technoArt\\C#\\PolymorphismEx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD62E7F-72EC-4190-A97E-3AE4BBCBB2E6}|PolymorphismEx1\\PolymorphismEx1.csproj|e:\\technoart\\c#\\polymorphismex1\\polymorphismex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD62E7F-72EC-4190-A97E-3AE4BBCBB2E6}|PolymorphismEx1\\PolymorphismEx1.csproj|solutionrelative:polymorphismex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\technoArt\\C#\\PolymorphismEx1\\PolymorphismEx1\\Program.cs",
+              "RelativeDocumentMoniker": "PolymorphismEx1\\Program.cs",
+              "ToolTip": "E:\\technoArt\\C#\\PolymorphismEx1\\PolymorphismEx1\\Program.cs",
+              "RelativeToolTip": "PolymorphismEx1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:38:00.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

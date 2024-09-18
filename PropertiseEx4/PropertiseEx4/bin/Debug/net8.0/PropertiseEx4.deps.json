@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PropertiseEx4/1.0.0": {
+        "runtime": {
+          "PropertiseEx4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PropertiseEx4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
