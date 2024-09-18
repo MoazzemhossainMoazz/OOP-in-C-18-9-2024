@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\EnumEx4\EnumEx4\bin\Debug\net8.0\EnumEx4.exe
+C:\Users\User\source\repos\EnumEx4\EnumEx4\bin\Debug\net8.0\EnumEx4.deps.json
+C:\Users\User\source\repos\EnumEx4\EnumEx4\bin\Debug\net8.0\EnumEx4.runtimeconfig.json
+C:\Users\User\source\repos\EnumEx4\EnumEx4\bin\Debug\net8.0\EnumEx4.dll
+C:\Users\User\source\repos\EnumEx4\EnumEx4\bin\Debug\net8.0\EnumEx4.pdb
+C:\Users\User\source\repos\EnumEx4\EnumEx4\obj\Debug\net8.0\EnumEx4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EnumEx4\EnumEx4\obj\Debug\net8.0\EnumEx4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EnumEx4\EnumEx4\obj\Debug\net8.0\EnumEx4.AssemblyInfo.cs
+C:\Users\User\source\repos\EnumEx4\EnumEx4\obj\Debug\net8.0\EnumEx4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EnumEx4\EnumEx4\obj\Debug\net8.0\EnumEx4.dll
+C:\Users\User\source\repos\EnumEx4\EnumEx4\obj\Debug\net8.0\refint\EnumEx4.dll
+C:\Users\User\source\repos\EnumEx4\EnumEx4\obj\Debug\net8.0\EnumEx4.pdb
+C:\Users\User\source\repos\EnumEx4\EnumEx4\obj\Debug\net8.0\EnumEx4.genruntimeconfig.cache
+C:\Users\User\source\repos\EnumEx4\EnumEx4\obj\Debug\net8.0\ref\EnumEx4.dll

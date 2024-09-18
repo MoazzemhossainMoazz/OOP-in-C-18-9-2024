@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\bin\Debug\net8.0\Interface_MultipleEx1.exe
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\bin\Debug\net8.0\Interface_MultipleEx1.deps.json
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\bin\Debug\net8.0\Interface_MultipleEx1.runtimeconfig.json
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\bin\Debug\net8.0\Interface_MultipleEx1.dll
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\bin\Debug\net8.0\Interface_MultipleEx1.pdb
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\obj\Debug\net8.0\Interface_MultipleEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\obj\Debug\net8.0\Interface_MultipleEx1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\obj\Debug\net8.0\Interface_MultipleEx1.AssemblyInfo.cs
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\obj\Debug\net8.0\Interface_MultipleEx1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\obj\Debug\net8.0\Interface_MultipleEx1.dll
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\obj\Debug\net8.0\refint\Interface_MultipleEx1.dll
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\obj\Debug\net8.0\Interface_MultipleEx1.pdb
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\obj\Debug\net8.0\Interface_MultipleEx1.genruntimeconfig.cache
+C:\Users\User\source\repos\Interface_MultipleEx1\Interface_MultipleEx1\obj\Debug\net8.0\ref\Interface_MultipleEx1.dll
